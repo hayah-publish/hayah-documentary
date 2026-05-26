@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "Image": "",
+    "Name": "أحمد جلال",
+    "Job": "مدير عام"
+  },
+  {
+    "id": 0,
+    "Image": "",
+    "Name": "أحمد قدري",
+    "Job": "مدير العام"
+  },
+  {
+    "id": 2,
+    "Image": "https://gyqcdkilwzyctkdyfdfl.supabase.co/storage/v1/object/sign/Team%20Images/IMG-20260524-WA0005_edit_136289745376758.jpg?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV82Y2M4Yzg2MC0wNTdmLTQ5NGItYTlmOS0zN2NlZmIzOTJmZWUiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJUZWFtIEltYWdlcy9JTUctMjAyNjA1MjQtV0EwMDA1X2VkaXRfMTM2Mjg5NzQ1Mzc2NzU4LmpwZyIsImlhdCI6MTc3OTcyNzExNSwiZXhwIjo0OTMzMzI3MTE1fQ.2TXcu0g45eTbYJUlZG1j6Jb4DEXulVSmVSM1puQnJEw",
+    "Name": "آية نوح",
+    "Job": "منسق عام"
+  },
+  {
+    "id": 3,
+    "Image": "",
+    "Name": "ندا برغش",
+    "Job": "كتابة وإعداد"
+  },
+  {
+    "id": 4,
+    "Image": "",
+    "Name": "ريهام النجار",
+    "Job": "كتابة وإعداد"
+  },
+  {
+    "id": 5,
+    "Image": "",
+    "Name": "رضا العجيري",
+    "Job": "كتابة وإعداد"
+  },
+  {
+    "id": 6,
+    "Image": "",
+    "Name": "محمد البيباوي",
+    "Job": "كتابة وإعداد"
+  },
+  {
+    "id": 8,
+    "Image": "",
+    "Name": "كاريمان أنور",
+    "Job": "كتابة وإعداد"
+  },
+  {
+    "id": 7,
+    "Image": "",
+    "Name": "إكرام الشامي",
+    "Job": "كتابة وإعداد"
+  },
+  {
+    "id": 9,
+    "Image": "",
+    "Name": "ماهر أبو غالي",
+    "Job": "معلق صوتي"
+  },
+  {
+    "id": 10,
+    "Image": "",
+    "Name": "محمود صالح",
+    "Job": "معلق صوتي"
+  },
+  {
+    "id": 11,
+    "Image": "",
+    "Name": "حمزة خطاب",
+    "Job": "معلق صوتي"
+  },
+  {
+    "id": 12,
+    "Image": "",
+    "Name": "سلمى ماجد",
+    "Job": "مصحح ومحرر"
+  },
+  {
+    "id": 13,
+    "Image": "",
+    "Name": "إسراء ناصر",
+    "Job": "مصحح ومحرر"
+  },
+  {
+    "id": 14,
+    "Image": "",
+    "Name": "أحمد وجيه",
+    "Job": "مونتاج وتحريك"
+  },
+  {
+    "id": 15,
+    "Image": "",
+    "Name": "نادين طلال",
+    "Job": "مونتاج وتحريك"
+  },
+  {
+    "id": 16,
+    "Image": "",
+    "Name": "أحمد فتحي",
+    "Job": "مونتاج وتحريك"
+  },
+  {
+    "id": 17,
+    "Image": "",
+    "Name": "أحمد هاني",
+    "Job": "مونتاج وتحريك"
+  },
+  {
+    "id": 18,
+    "Image": "",
+    "Name": "ياسر بهاء",
+    "Job": "مونتاج وتحريك"
+  },
+  {
+    "id": 19,
+    "Image": "",
+    "Name": "هشام محمود",
+    "Job": "مونتاج وتحريك"
+  },
+  {
+    "id": 20,
+    "Image": "",
+    "Name": "ريهام طارق",
+    "Job": "مدير تنفيذي"
+  },
+  {
+    "id": 21,
+    "Image": "",
+    "Name": "إسلام رجب",
+    "Job": "جرافيك ديزاينر"
+  },
+  {
+    "id": 22,
+    "Image": "",
+    "Name": "رحمة أحمد",
+    "Job": "مصمم UI/UX"
+  },
+  {
+    "id": 23,
+    "Image": "",
+    "Name": "عواطف حافظ",
+    "Job": "كتابة وإعداد"
+  },
+  {
+    "id": 24,
+    "Image": "",
+    "Name": "محمد أمين",
+    "Job": "برمجة وتطوير"
+  }
+]
