@@ -3,7 +3,7 @@
    "icon": "https://unpkg.com/ionicons@5.5.2/dist/svg/triangle-outline.svg",
    "title": "الحضارة المصرية",
    "info": "الهرم الأكبر في الجيزة ظلّ أطول بناء شيّده الإنسان لأكثر من 3,800 عام — حتى بناء كاتدرائية لينكون عام 1311م.",
-   "highlight": " حتي بناء 3,800 عام"
+   "highlight": "3,800 عام"
  },
  {
    "icon": "https://unpkg.com/ionicons@5.5.2/dist/svg/business-outline.svg",
@@ -15,6 +15,6 @@
    "icon": "https://unpkg.com/ionicons@5.5.2/dist/svg/shield-outline.svg",
    "title": "الإمبراطورية الرومانية",
    "info": "شبكة الطرق الرومانية امتدت لأكثر من 400,000 كم — وهي مسافة تكفي للدوران حول الأرض 10 مرات.",
-   "highlight": "400,000 كم"
+   "highlight": "10 مرات"
  }
 ]
