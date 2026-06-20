@@ -1,0 +1,22 @@
+[
+{
+"id":"0",
+"name":"الإسلام",
+"icon":"https://api.iconify.design/fa6-solid:mosque.svg"
+},
+{
+"id":"1",
+"name":"المسيحية",
+"icon":"https://api.iconify.design/fa6-solid:cross.svg"
+},
+{
+"id":"2",
+"name":"اليهودية",
+"icon":"https://api.iconify.design/fa6-solid:star-of-david.svg"
+},
+{
+"id":"3",
+"name":"ديانات وضعية",
+"icon":"https://unpkg.com/ionicons@5.5.2/dist/svg/earth-outline.svg"
+}
+]
