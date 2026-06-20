@@ -1,0 +1,27 @@
+[
+{
+"id":"0",
+"name":"الحضارات القديمة",
+"icon":"https://unpkg.com/ionicons@5.5.2/dist/svg/hourglass-outline.svg"
+},
+{
+"id":"1",
+"name":"الحضارات المفقودة",
+"icon":"https://unpkg.com/ionicons@5.5.2/dist/svg/map-outline.svg"
+},
+{
+"id":"2",
+"name":"الإمبراطوريات الكبرى",
+"icon":"https://unpkg.com/ionicons@5.5.2/dist/svg/globe-outline.svg"
+},
+{
+"id":"3",
+"name":"حضارات حول العالم",
+"icon":"https://unpkg.com/ionicons@5.5.2/dist/svg/compass-outline.svg"
+},
+{
+"id":"4",
+"name":"ألغاز واكتشافات أثرية",
+"icon":"https://unpkg.com/ionicons@5.5.4/dist/svg/search-outline.svg"
+}
+]
