@@ -2,26 +2,31 @@
 {
 "id":"0",
 "name":"الحضارات القديمة",
-"icon":"https://unpkg.com/ionicons@5.5.2/dist/svg/hourglass-outline.svg"
+"icon":"https://unpkg.com/ionicons@5.5.2/dist/svg/hourglass-outline.svg",
+"image":"https://github.com/hayah-publish/hayah-documentary/blob/main/Files/civilizations/old%20civil.jpg?raw=true"
 },
 {
 "id":"1",
 "name":"الحضارات المفقودة",
-"icon":"https://unpkg.com/ionicons@5.5.2/dist/svg/map-outline.svg"
+"icon":"https://unpkg.com/ionicons@5.5.2/dist/svg/map-outline.svg",
+"image":"https://github.com/hayah-publish/hayah-documentary/blob/main/Files/civilizations/missid%20civil.jpg?raw=true"
 },
 {
 "id":"2",
 "name":"الإمبراطوريات الكبرى",
-"icon":"https://unpkg.com/ionicons@5.5.2/dist/svg/globe-outline.svg"
+"icon":"https://unpkg.com/ionicons@5.5.2/dist/svg/globe-outline.svg",
+"image":"https://github.com/hayah-publish/hayah-documentary/blob/main/Files/civilizations/big%20empire.jpg?raw=true"
 },
 {
 "id":"3",
 "name":"حضارات حول العالم",
-"icon":"https://unpkg.com/ionicons@5.5.2/dist/svg/compass-outline.svg"
+"icon":"https://unpkg.com/ionicons@5.5.2/dist/svg/compass-outline.svg",
+"image":"https://github.com/hayah-publish/hayah-documentary/blob/main/Files/civilizations/world%20civil.png?raw=true"
 },
 {
 "id":"4",
 "name":"ألغاز واكتشافات أثرية",
-"icon":"https://unpkg.com/ionicons@5.5.4/dist/svg/search-outline.svg"
+"icon":"https://unpkg.com/ionicons@5.5.4/dist/svg/search-outline.svg",
+"image":"https://github.com/hayah-publish/hayah-documentary/blob/main/Files/civilizations/quiz%20civil.png?raw=true"
 }
 ]
