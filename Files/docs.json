@@ -2,26 +2,31 @@
 {
 "id":"0",
 "name":"ملفات سياسية",
-"icon":"https://unpkg.com/ionicons@5.5.4/dist/svg/briefcase-outline.svg"
+"icon":"https://unpkg.com/ionicons@5.5.4/dist/svg/briefcase-outline.svg",
+"image":"https://github.com/hayah-publish/hayah-documentary/blob/main/Files/docs/policy%20docs.png?raw=true"
 },
 {
 "id":"1",
 "name":"ملفات سرية",
-"icon":"https://unpkg.com/ionicons@5.5.4/dist/svg/lock-closed-outline.svg"
+"icon":"https://unpkg.com/ionicons@5.5.4/dist/svg/lock-closed-outline.svg",
+"image":"https://github.com/hayah-publish/hayah-documentary/blob/main/Files/docs/secret%20docs.png?raw=true"
 },
 {
 "id":"2",
 "name":"ملفات شائكة",
-"icon":"https://unpkg.com/ionicons@5.5.4/dist/svg/flame-outline.svg"
+"icon":"https://unpkg.com/ionicons@5.5.4/dist/svg/flame-outline.svg",
+"image":"https://github.com/hayah-publish/hayah-documentary/blob/main/Files/docs/hard%20docs.png?raw=true"
 },
 {
 "id":"3",
 "name":"ملفات الفنانين",
-"icon":"https://cdn.jsdelivr.net/npm/ionicons@5.5.4/dist/svg/images-outline.svg"
+"icon":"https://cdn.jsdelivr.net/npm/ionicons@5.5.4/dist/svg/images-outline.svg",
+"image":"https://github.com/hayah-publish/hayah-documentary/blob/main/Files/docs/famous%20docs.png?raw=true"
 },
 {
 "id":"4",
 "name":"جواسيس ومخابرات",
-"icon":"https://cdn.jsdelivr.net/npm/ionicons@5.5.4/dist/svg/finger-print-outline.svg"
+"icon":"https://cdn.jsdelivr.net/npm/ionicons@5.5.4/dist/svg/finger-print-outline.svg",
+"image":"https://github.com/hayah-publish/hayah-documentary/blob/main/Files/docs/spy%20docs.JPEG?raw=true"
 }
 ]
